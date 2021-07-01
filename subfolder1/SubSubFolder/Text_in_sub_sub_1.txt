@@ -1,0 +1,1 @@
+Toto je text v druhé úrovni subfolderu.
