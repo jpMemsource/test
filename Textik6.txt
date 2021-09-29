@@ -1,2 +1,3 @@
 Textik 6
 Připisuji nový text
+A ještě něco k tomu...
