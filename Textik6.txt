@@ -2,3 +2,4 @@ Textik 6
 Připisuji nový text
 A ještě něco k tomu.
 No a teď něco na závěr.
+Nebo raději ještě něco.
